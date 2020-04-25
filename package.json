@@ -1,0 +1,22 @@
+{
+  "name": "validate-google-auth",
+  "version": "0.0.1",
+  "description": "Helper for validating Google Auth tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsnyder0/validate-google-auth.git"
+  },
+  "author": "bsnyder0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsnyder0/validate-google-auth/issues"
+  },
+  "homepage": "https://github.com/bsnyder0/validate-google-auth#readme",
+  "dependencies": {
+    "google-auth-library": "^6.0.0"
+  }
+}
