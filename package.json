@@ -4,6 +4,7 @@
   "description": "Helper for validating Google Auth tokens",
   "main": "index.js",
   "scripts": {
+    "test": "node test"
   },
   "repository": {
     "type": "git",
