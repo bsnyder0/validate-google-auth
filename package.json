@@ -4,7 +4,7 @@
   "description": "Helper for validating Google Auth tokens",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/cli"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/bsnyder0/validate-google-auth#readme",
   "dependencies": {
     "google-auth-library": "^6.0.0"
+  },
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
