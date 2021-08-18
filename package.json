@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/bsnyder0/validate-google-auth#readme",
   "dependencies": {
-    "google-auth-library": "^6.0.0"
-  },
-  "devDependencies": {}
+    "google-auth-library": "^7.6.2"
+  }
 }
